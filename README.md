@@ -1,19 +1,17 @@
-# Growth Mindset
-![Growth Mindest](https://ruleofseay.files.wordpress.com/2019/12/9f524-brain-2062057_960_720.jpg)
+# ** Hello**
+![Hello](https://blogfonts.com/fonts/h/406/164406/img/hello.png)
 
-## What do you know about **Grotwth Mindest**
 
-*Growth Mindset* people believe that their most basic abilities can be developed through dedication and hard work—brains and talent are just the starting point. This view creates a love of learning and a resilience that is essential for great accomplishment.
+## *Introduction about an **Auther** *
+*My name is Rahaf Al-Bakkar
+ I'm a computer engineer Now a trainee at ASAC. I Excited to learn programming languages,I would like to get a great job in this field.*
 
-**About myself** I reminders to myself to keep myself in a growth mindse by doing these:
- - I can so I do
- - I'm intellegent girl 
- - By reading book that's helpful to learn more 
+linkedIn [contact me](https://www.linkedin.com/in/rahaf-albakkar-b3a63a202/)
 
-### There are tow type:
-a fixed mindset | A growth mindset
+### My initial website 
+contents :
+
+Topic  | page
 ------------ | -------------
-intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort. | Believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
- 
- [ *Learn more about A growth mindset* ](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
-
+Growth Mindset | https://replit.com/@Rahafalbakkar/Raeding-Note#Growth mindest.md
+Markdown languge |https://github.com/RahafALBAKKAR/Raeding-Note/blob/main/read0.md

@@ -16,4 +16,6 @@ a fixed mindset | A growth mindset
 intelligence and talent are seen as fixed traits, suggesting that success comes from these inherent qualities alone, without the need for further development or effort. | Believes that one’s fundamental abilities can be developed through perseverance and effort; intelligence and talent are simply good starting points. A growth mindset is synonymous with a love of learning.
  
  [ *Learn more about A growth mindset* ](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
+ 
+[Back Home page](https://github.com/RahafALBAKKAR/Raeding-Note):arrow_right_hook:
 

@@ -17,5 +17,5 @@ intelligence and talent are seen as fixed traits, suggesting that success comes 
  
  [ *Learn more about A growth mindset* ](https://www.atlassian.com/blog/inside-atlassian/growth-mindset)
  
-[Back Home page](https://github.com/RahafALBAKKAR/Raeding-Note):arrow_right_hook:
+[Back Home page](hhttps://rahafalbakkar.github.io/Raeding-Note/):arrow_right_hook:
 

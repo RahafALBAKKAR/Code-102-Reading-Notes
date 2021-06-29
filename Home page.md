@@ -13,5 +13,6 @@ contents :
 
 Topic  | page
 ------------ | -------------
-Growth Mindset | https://replit.com/@Rahafalbakkar/Raeding-Note#Growth mindest.md
+Growth Mindset | https://github.com/@Rahafalbakkar/Raeding-Note#Growthmindest.md
 Markdown languge |https://github.com/RahafALBAKKAR/Raeding-Note/blob/main/read0.md
+Git |https://github.com/RahafALBAKKAR/Raeding-Note/blob/main/Git.md

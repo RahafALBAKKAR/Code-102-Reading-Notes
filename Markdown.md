@@ -1,15 +1,23 @@
-# In this page I will summarize what I understand about **Mark up**
+# **Markdown**
+ ![markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
+ 
+___
+ ## What is Markdown : question : :grey_question:
+  is a lightweight markup language for creating formatted text using a plain-text editor. 
+  
+  ### Markdown Extra adds the following features to Markdown: 
+   -  Markdown markup inside HTML blocks
+   -  Elements with id/class attribute
+   - "Fenced code blocks" that span multiple lines of code
+   - Tables.
+   
+   #### Example  
+   | symbole  | ??   |
+| ------- | ------- |
+| # | Head1  |
+| **  ** | Bold  |
+| 1.| Orderlist  |
 
-- It's languge to write decumantion fo website or WebApp like noite to understand how do use it.
--I have to add comment here to know anybody if want to change any thing in my project what i did.
-
-## It is'not **WYS/WYG** 
-
-### Lightweight markup languge for generation
-
-**So I learend these ponits:**
-
-  1. How makes styled collaborative editing easy
-  2. How to use Markdown to format text
-  3. How to leverage GitHub’s automatic Markdown rendering
-  4.  How to apply GitHub’s unique Markdown extensions
+[Back Home page](https://github.com/RahafALBAKKAR/Raeding-Note):arrow_right_hook:
+   
+ 

@@ -13,6 +13,6 @@ contents :
 
 Topic  | page
 ------------ | -------------
-Growth Mindset | [Click here](https://github.com/@Rahafalbakkar/Raeding-Note#Growthmindest.md)
-Markdown languge |[Click Here](https://github.com/RahafALBAKKAR/Raeding-Note/blob/main/read0.md)
-Git |[Click Here](https://github.com/RahafALBAKKAR/Raeding-Note/blob/main/Git.md)
+Growth Mindset | [Click here](https://github.com/@Rahafalbakkar/Raeding-Note/Growthmindest)
+Markdown languge |[Click Here](https://github.com/RahafALBAKKAR/Raeding-Note/Markdown)
+Git |[Click Here](https://github.com/RahafALBAKKAR/Raeding-Note/Git)

@@ -15,4 +15,4 @@ Topic  | page
 ------------ | -------------
 Growth Mindset | [Click here](https://github.com/@Rahafalbakkar/Raeding-Note/Growthmindest)
 Markdown languge |[Click Here](https://github.com/RahafALBAKKAR/Raeding-Note/Markdown)
-Git |[Click Here](https://github.com/RahafALBAKKAR/Raeding-Note/Git)
+Git |[Click Here](https://github.com/RahafALBAKKAR/Raeding-Note/edit/main/Git.md)

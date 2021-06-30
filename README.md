@@ -16,5 +16,5 @@ Topic  | page
 Growth Mindset | [Click here](https://rahafalbakkar.github.io/Raeding-Note/Growthmindest)
 Markdown languge |[Click Here](https://rahafalbakkar.github.io/Raeding-Note/Markdown)
 Git |[Click Here](https://rahafalbakkar.github.io/Raeding-Note/Git)
-Html & JS | [Click here](https://rahafalbakkar.github.io/Raeding-Note/html)
+Html  | [Click here](https://rahafalbakkar.github.io/Raeding-Note/html)
 

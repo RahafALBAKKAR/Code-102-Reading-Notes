@@ -18,5 +18,5 @@ Markdown languge |[Click Here](https://rahafalbakkar.github.io/Raeding-Note/Mark
 Git |[Click Here](https://rahafalbakkar.github.io/Raeding-Note/Git)
 Html  | [Click here](https://rahafalbakkar.github.io/Raeding-Note/html)
 Js    |[Click here](https://rahafalbakkar.github.io/Raeding-Note/js)
- Operators AND Loops | [Click here](https://rahafalbakkar.github.io/Raeding-Note/Ex&loop)
+
 

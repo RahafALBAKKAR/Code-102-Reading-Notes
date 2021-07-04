@@ -8,7 +8,22 @@ ___
 There is tow methodes to write functios in JS 
 ![methodes](http://codedcreatures.com/wp-content/uploads/2020/10/image-34.png)
 ______
-### How to call function in HTML file:
+#### Function parameters
+* Parameter Rules :JavaScript function definitions do not specify data types for parameters.
+
+JavaScript functions do not perform type checking on the passed arguments.
+
+JavaScript functions do not check the number of arguments received.
+* Default Parameters
+If a function is called with missing arguments (less than declared), the missing values are set to undefined.
+![default ](https://reactgo.com/static/ce6234f334a547487ddca887717c7a1d/a307d/default-function-parameters-javascript.png)
+* The Arguments Object
+
+JavaScript functions have a built-in object called the arguments object.
+
+The argument object contains an array of the arguments used when the function was called (invoked).
+______
+#### How to call function in HTML file:
 ___
 * Generally:
 
@@ -17,4 +32,3 @@ ___
 
 * If you want put specific function in line on code use this methode :
 <script type=" download()"></script>
-

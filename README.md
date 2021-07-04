@@ -20,5 +20,5 @@ Html  | [Click here](https://rahafalbakkar.github.io/Raeding-Note/html)
 Js    |[Click here](https://rahafalbakkar.github.io/Raeding-Note/js)
 Operators AND Loops | [Click here](https://rahafalbakkar.github.io/Raeding-Note/Ex&loop)
 CSS | [Click here](https://rahafalbakkar.github.io/Raeding-Note/cssr)
-
+Functions | [Click here](https://replit.com/@Rahafalbakkar/Raeding/function)
 

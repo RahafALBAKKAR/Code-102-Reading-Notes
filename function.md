@@ -8,5 +8,13 @@ ___
 There is tow methodes to write functios in JS 
 ![methodes](http://codedcreatures.com/wp-content/uploads/2020/10/image-34.png)
 ______
-### Calling functions
+### How to call function in HTML file:
 ___
+* Generally:
+
+<script src="index0.js">
+  </script>
+
+* If you want put specific function in line on code use this methode :
+<script type=" download()"></script>
+

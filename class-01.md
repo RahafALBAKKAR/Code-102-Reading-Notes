@@ -70,6 +70,31 @@ control over how your site looks.
  #### **[How the Web Works](https://www.youtube.com/watch?v=mpQZVYPuDGU)**
  ![DNS](https://mk0wpwhitesec1it7616.kinstacdn.com/wp-content/uploads/2019/01/dns_generic.jpg)
  
- 
- 
- 
+________
+ # **Structure**
+_______________ 
+ . In this section we will:
+● See how HTML describes the structure of a web page
+● Learn how tags or elements are added to your document
+
+This might be expanded upon 
+under subheadings lower down 
+on the page. When using a word 
+processor to create a document, 
+we separate out the text to give 
+it structure. Each topic might 
+have a new paragraph, and each 
+section can have a heading to 
+describe what it covers.
+
+![HTML structuer](https://csveda.com/wp-content/uploads/2020/02/HTML_Structure.png)
+- **Tags** act like containers. They tell you 
+something about the information that lies 
+between their opening and closing tags
+_____
+- **Attributes** provide additional information 
+about the contents of an element. They appear 
+on the opening tag of the element and are 
+made up of two parts: a name and a value, 
+separated by an equals sign.
+![HTML tag](https://www.computerhope.com/jargon/h/html-tag.gif)

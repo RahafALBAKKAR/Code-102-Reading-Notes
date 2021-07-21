@@ -24,7 +24,7 @@ Control flow | [Click here](https://replit.com/@Rahafalbakkar/Raeding/Control)
 
 #of topic | Topic  | page
 ------------ |------------ | -----------
-1 |------------ | -----------
+1 |class-01 | [Click here ](https://github.com/RahafALBAKKAR/Code-201-Reading-Notes/class-01)
 2|------------ | -----------
 3 |------------ | -----------
 4|------------ | -----------

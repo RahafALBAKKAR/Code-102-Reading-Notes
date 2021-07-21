@@ -98,3 +98,12 @@ on the opening tag of the element and are
 made up of two parts: a name and a value, 
 separated by an equals sign.
 ![HTML tag](https://www.computerhope.com/jargon/h/html-tag.gif)
+
+_________
+# **Extra Markup**
+**Since the web was first created, there have been several different versions of HTML**
+| versions of HTML | PROPRTIES   |
+| ------- | ------- |
+|HTML 4|  HTML 4 had some presentational elements to control the appearance of pages (Examplesinclude the <center> element for centering content on a page, <font> for controlling the appearance of text|
+| XHTML 1.0| XHTML works seamlessly with other programs that are written to create and process XML documents. used with other data formats such as Scalable Vector Graphics (SVG) |
+ | HTML5|  web page authors do not need to close all tags, and new elements and attributes will be introduced. |

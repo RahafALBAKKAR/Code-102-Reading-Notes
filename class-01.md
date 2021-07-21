@@ -107,3 +107,14 @@ _________
 |HTML 4|  HTML 4 had some presentational elements to control the appearance of pages (Examplesinclude the <center> element for centering content on a page, <font> for controlling the appearance of text|
 | XHTML 1.0| XHTML works seamlessly with other programs that are written to create and process XML documents. used with other data formats such as Scalable Vector Graphics (SVG) |
  | HTML5|  web page authors do not need to close all tags, and new elements and attributes will be introduced. |
+ 
+ ____
+
+ ![DOCTYPE](https://cdn.guru99.com/images/2/041720_1055_Differenceb1.png)
+  **Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using (although browsers usually display the page even if it is not included)**
+ 
+ |  HTML language  | Symploe  | staff of it   |
+| ------- | ------- | --------- |
+|Comment in HTML | <! Comment here > |f you want to add a comment to your code that will not be visible in the user's browser|
+|ID Attribute | < p id="pullquote" > |It is used to uniquely identify that element from otherelements on the page. |
+ | CLASS Attribute| < p class="important" > |  if you want a way to identify several elements as being different from the other elements on the page |

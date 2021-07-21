@@ -20,7 +20,6 @@ Js    |[Click here](https://rahafalbakkar.github.io/Raeding-Note/js)
 Operators AND Loops | [Click here](https://rahafalbakkar.github.io/Raeding-Note/Ex&loop)
 CSS | [Click here](https://rahafalbakkar.github.io/Raeding-Note/cssr)
 Functions | [Click here](https://replit.com/@Rahafalbakkar/Raeding/function)
-Control flow | [Click here](https://replit.com/@Rahafalbakkar/Raeding/Control)
 
 #of topic | Topic  | page
 ------------ |------------ | -----------

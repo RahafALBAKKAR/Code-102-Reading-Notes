@@ -116,5 +116,13 @@ _________
  |  HTML language  | Symploe  | staff of it   |
 | ------- | ------- | --------- |
 |Comment in HTML | <! Comment here > |f you want to add a comment to your code that will not be visible in the user's browser|
-|ID Attribute | < p id="pullquote" > |It is used to uniquely identify that element from otherelements on the page. |
- | CLASS Attribute| < p class="important" > |  if you want a way to identify several elements as being different from the other elements on the page |
+|ID Attribute | < p id="pullquote"> |It is used to uniquely identify that element from otherelements on the page. |
+ | CLASS Attribute| < p class="important"> |  if you want a way to identify several elements as being different from the other elements on the page |
+
+ _________
+ 
+ ### **HTML Elements**
+ ![Elements](https://ewldesign.com/portfolio/css/images/block-and-inline-elements.jpg)
+ 
+ ________
+ 

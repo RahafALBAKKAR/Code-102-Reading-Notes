@@ -129,5 +129,10 @@ _________
  - <iframe> chapter-08/iframes.html HTML An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame.
  
  - <meta> The <meta> element lives inside the <head> element and contains information about that web page.
+ 
+ ___________
+ **The new HTML5 elements indicate the purpose of different parts of a web page and help to describe its structure.**
+ 
+ ![HTML Layout](https://i.pinimg.com/736x/36/ae/d0/36aed058a33efa95cc984eb277d410b0.jpg)
 
  

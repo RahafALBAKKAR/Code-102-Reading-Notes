@@ -12,14 +12,14 @@ contents :
 
 Topic  | page
 ------------ | -------------
-Growth Mindset | [Click here](https://rahafalbakkar.github.io/Raeding-Note/Growthmindest)
-Markdown languge |[Click Here](https://rahafalbakkar.github.io/Raeding-Note/Markdown)
-Git |[Click Here](https://rahafalbakkar.github.io/Raeding-Note/Git)
-Html  | [Click here](https://rahafalbakkar.github.io/Raeding-Note/html)
-Js    |[Click here](https://rahafalbakkar.github.io/Raeding-Note/js)
-Operators AND Loops | [Click here](https://rahafalbakkar.github.io/Raeding-Note/Ex&loop)
-CSS | [Click here](https://rahafalbakkar.github.io/Raeding-Note/cssr)
-Functions | [Click here](https://replit.com/@Rahafalbakkar/Raeding/function)
+Growth Mindset | [Click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/Growthmindest)
+Markdown languge |[Click Here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/Markdown)
+Git |[Click Here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/Git)
+Html  | [Click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/html)
+Js    |[Click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/js)
+Operators AND Loops | [Click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/Ex&loop)
+CSS | [Click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/cssr)
+Functions | [Click here](https://replit.com/@Rahafalbakkar/Code-201-Reading-Notes/function)
 
 #of topic | Topic  | page
 ------------ |------------ | -----------

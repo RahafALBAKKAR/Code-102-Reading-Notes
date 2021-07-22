@@ -31,4 +31,4 @@ example >>
 Using **var**
 ![Variable](https://www.wikihow.com/images/thumb/7/7e/Declare-a-Variable-in-Javascript-Step-2.jpg/aid1337336-v4-728px-Declare-a-Variable-in-Javascript-Step-2.jpg.webp) 
 
-[Back to home](https://rahafalbakkar.github.io/Raeding-Note/)
+[Back to home](https://rahafalbakkar.github.io/Code-201-Reading-Notes/)

@@ -32,3 +32,5 @@ ___
 
 * If you want put specific function in line on code use this methode :
 <script type=" download()"></script>
+
+[Back to home page]()

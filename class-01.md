@@ -52,19 +52,8 @@ just using HTML and CSS.
 
 **Larger websites** — in particular 
 those that are updated regularly 
-and use a content management 
-system (CMS), blogging tools, or 
-e-commerce software — often 
-make use of more complex 
-technologies on the web server, 
-but these technologies are 
-actually used to produce HTML 
-and CSS that is then sent to the 
-browser. So, if your site uses 
-these technologies, you will be 
-able to use your new HTML and 
-CSS knowledge to take more 
-control over how your site looks.
+and use a content management system (CMS), blogging tools, or e-commerce software — often make use of more complex technologies on the web server, but these technologies are actually used to produce HTML and CSS that is then sent to the 
+browser. So, if your site uses these technologies, you will be able to use your new HTML and CSS knowledge to take more control over how your site looks.
  
  
  #### **[How the Web Works](https://www.youtube.com/watch?v=mpQZVYPuDGU)**
@@ -229,6 +218,10 @@ __________
   *A script is a series of instructions that a computer can follow to achieve a goal. *
  
  To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
+ 
+ _____
+ Start with the big picture of what you want to achieve, and break that down into smaller steps. 
+
  
 
  

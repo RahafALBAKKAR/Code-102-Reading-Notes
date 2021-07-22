@@ -168,5 +168,9 @@ grouped.
 To help you decide what information should go on each page, you can use a technique called card sorting.This involves placing each piece of information that a visitor might need to know on a separate piece of paper and then organizing the related information into groups.
  
  ![sitemap](https://chili.pa/wp-content/uploads/Sitemap-SEO-1.jpg)
-
  
+ 
+__________
+
+ **Java Script**
+ ![java scritp](https://miro.medium.com/max/800/1*JTVWHBtzlA9P6iKMxCF2yQ.png)

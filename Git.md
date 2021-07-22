@@ -27,7 +27,7 @@ ___
 [Learn more](https://blog.udemy.com/git-tutorial-a-comprehensive-guide/)
 
 ___
-[Back Home page](https://rahafalbakkar.github.io/Raeding-Note) :arrow_right_hook:
+[Back Home page](https://rahafalbakkar.github.io/Code-201-Reading-Notes) :arrow_right_hook:
 
 
 ___

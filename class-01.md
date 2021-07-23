@@ -289,7 +289,9 @@ In fact, the document object is just one of a set of objects that all major brow
  HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER 
   ![HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER](https://slideplayer.com/slide/16324903/95/images/2/How+HTML%2C+CSS%2C+and+JS+Fit+Together.jpg)
  
-
+[Back to homw page](https://rahafalbakkar.github.io/Code-201-Reading-Notes)
+ 
+[Take Quiz](https://rahafalbakkar.github.io/Code-201-Reading-Notes/Quiz)
  
 
  

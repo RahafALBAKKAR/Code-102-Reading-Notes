@@ -251,9 +251,44 @@ So a script will state which events the programmer wants to respond to, and what
 
  • Methods 
  typically represent how people (or other things) interact with an object in the real world.
+  _______
+WEB BROWSERS ARE PROGRAMS BUILT USING OBJECTS
+ 
+the document object has: 
+PROPERTIES 
+Properties describe characteristics of the current 
+web page (such as the title of the page). 
+METHODS 
+Methods perform tasks associated with the 
+document currently loaded in the browser (such 
+as getting information from a specified element or 
+adding new content). 
+EVENTS 
+You can respond to events, such as a user clicking or 
+tapping on an element. 
+
+Because all major web browsers implement the document object in the same way, the people who create the browsers have already: 
+• Implemented properties that you can access to find out about the current page in the browser
+ 
+• Written methods that achieve some common tasks that you are likely to want to do with an HTML page So you will be learning how to work with this object. 
+ 
+In fact, the document object is just one of a set of objects that all major browsers support. When the browser creates a model of a web page, it not only creates a document object, but it also creates a new object for each element on the page. Together these objects are described in the Document Object Model.
+ _________
+ 
+ HOW A BROWSER SEES A WEB PAGE:
+ 
+ 1. RECEIVE A PAGE AS HTML CODE
+ 
+ 2.CREATE A MODEL OF THE PAGE AND STORE IT IN MEMORY
+ 
+ 3.USE A RENDERING ENGINE TO SHOW THE PAGE ON SCREEN
+ 
+ ____________
  
  
+ HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER 
  
+ [](https://slideplayer.com/slide/16324903/95/images/2/How+HTML%2C+CSS%2C+and+JS+Fit+Together.jpg)
  
 
  

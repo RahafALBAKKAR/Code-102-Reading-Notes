@@ -291,7 +291,7 @@ In fact, the document object is just one of a set of objects that all major brow
  
 [Back to homw page](https://rahafalbakkar.github.io/Code-201-Reading-Notes)
  
-[Take Quiz](https://rahafalbakkar.github.io/Code-201-Reading-Notes/Quiz)
+[Take Quiz](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-01/Quiz)
  
 
  

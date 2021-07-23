@@ -220,8 +220,40 @@ __________
  To write a script, you need to first state your goal and then list the tasks that need to be completed in order to achieve it. 
  
  _____
- Start with the big picture of what you want to achieve, and break that down into smaller steps. 
+ Start with the big picture of what you want to achieve, and break that down into smaller steps.
+ 
+ 1. DEFINE THE GOAL:  First, you need to define the task you want to achieve. You can think of this as a puzzle for the computer to solve. 
+ 
+2. DESIGN THE SCRIPT:  To design a script you split the goal out into a series of tasks that are going to be involved in solving this puzzle. This can be represented using a flowchart. You can then write down individual steps that the computer needs to perform in order to complete each individual task (and any information it needs to perform the task), rather like writing a recipe that it can follow. 
+ 
+ 3.  CODE EACH STEP: Each of the steps needs to be written in a programming language that the compu ter understands. In our case, this is JavaScript. As tempting as it can be to start coding straight away, it pays to spend time designing your script before you start writing it. 
+ 
+ Computers are very logical and obedient. They need to be told every detail of what they are expected to do, and they will do it without question. Because they need different types of instructions compared to you or I, everyone who learns to program makes lots of mistakes at the start. Don't be disheartened; in Chapter 10 you will see several ways to discover what might have gone wrong - programmers call this debugging. 
+ 
+ Often scripts will need to perform different tasks in differentsituations. You can use flowcharts to work out how the tasks fit together. 
+ 
+The flowcharts show the paths between each step. 
+ ![flowchart](https://www.yworks.com/assets/images/landing-pages/demo-flowchart-example.ecc8bed3ad.png)
+ 
+ _________
+ COMPUTERS CREATE MODELS OF THE WORLD USING DATA
+ 
+OBJECTS (TH INGS) 
+In computer programming, each physical thing in the world can be represented as an object. 
+ 
+ Each object can have its own: 
+ 
+ • Properties 
+ Each property has a name and a value, and each of these name/value pairs tells you something about each individual instance of the object.
+ • Events 
+ Programmers choose which events they respond to. When a specific event happens, that event can be used to trigger a specific section of the code. Scripts often use different events to trigger different types of functionality. 
+So a script will state which events the programmer wants to respond to, and what part of the script should be run when each of those events occur. 
 
+ • Methods 
+ typically represent how people (or other things) interact with an object in the real world.
+ 
+ 
+ 
  
 
  

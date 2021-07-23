@@ -15,19 +15,33 @@ a.<h>
 b.<em> 
 c.<abbr>
 
-- Q4 :
-- Q5 :
-- Q6 :
-- Q7 :
-- Q8 :
-- Q9 :
-- Q10 :
+- Q4 :It is used to uniquely identify that element from otherelements on the page.
+a.Class Attribute
+b.ID Attribute
+c.Comment
+
+- Q5 : The aim is to create a diagram of the pages that will be used to structure the site?
+a.homemap
+b.webmap
+c.sitemap 
+
+- Q6 : You can respond to events, such as a user clicking or tapping on an element?
+a.Event
+b.Methodes 
+c.Proprtey
+
+- Q7 : Css is ?
+a.Presention layer
+b.structuer layer
+c. style layer
 
 | Qustion  | Answer    |
 | ------- | ------- |
 | Q1 | a  |
 | Q2 | c  |
-| Q3 | a  |
-| Q4 | c  |
-| Q5 | a  |
-| Q6 | c  |
+| Q3 | b |
+| Q4 | b  |
+| Q5 | c |
+| Q6 | a  |
+| Q7 | a  |
+

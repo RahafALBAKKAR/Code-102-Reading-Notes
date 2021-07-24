@@ -38,7 +38,7 @@ Functions | [Click here](https://replit.com/@Rahafalbakkar/Code-201-Reading-Note
 13 |------------ | -----------
 14 |------------ | -----------
 15 |------------ | -----------
------------- |------------ | -----------
+Quiz |------------ | [click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/blob/main/Quiz)
 
 
             

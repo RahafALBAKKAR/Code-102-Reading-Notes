@@ -24,7 +24,7 @@ Functions | [Click here](https://replit.com/@Rahafalbakkar/Code-201-Reading-Note
 #of topic | Topic  | page
 ------------ |------------ | -----------
 1 |class-01 | [Click here ](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-01)
-2|------------ | -----------
+2|class-02|  [Click here ](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-02
 3 |------------ | -----------
 4|------------ | -----------
 5|------------ | -----------

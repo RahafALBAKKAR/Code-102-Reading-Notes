@@ -60,3 +60,22 @@ CSS works by associating rules with HTML elements. These rules govern how the co
  
 ![css proprties](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/CSS_basics/css-declaration-small.png)
 
+______
+ #### Basic JavaScript Insruction
+
+ **statement**:series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon.
+
+ You should write **comments** to explain what your code does. they help make your code easier to read and understand. This can help you and others who read your code.
+
+-  **variables**: temporarily store the bits of information it needs to do its job. It can store this data.
+
+![var](https://lh3.googleusercontent.com/-YXC3gtpMlko/X3HA5DHH6MI/AAAAAAAAB3Q/VYM81zAFldY-cItuj7GMYA0Xy7Fy0GWBgCLcBGAsYHQ/image.png)
+
+- ![type](https://tutorial.techaltum.com/images/js-datatypes.jpg)
+
+*Sometimes you will want to use a double or single quote mark within a string. Because strings can live in single or double quotes, if you just want to use double quotes in the string, you could surround the entire string in single quotes. If you just want to use single quotes in the string, you could surround the string in double quotes*
+
+![**RULES FOR NAMING VARIABLES**](https://image.slidesharecdn.com/versatilevariables-150213221737-conversion-gate02/95/versatile-variables-5-638.jpg?cb=1423865962)
+
+
+

@@ -1,4 +1,4 @@
-# **Text**
+# **HTML Text**
 ______
 *When creating a web page, you add tags (known as markup) to the contents of the page. These tags provide extra meaning and allow browsers to show users the appropriate structure for the page*
 
@@ -33,7 +33,7 @@ Subscrip**
 
 - < hr /> tag  you can add a horizontal rulebetween sections using the < hr /> tag.
 _____
-## Semantic Markup
+**Semantic Markup**
 
 - < strong> The use of the < strong>element indicates that its content has strong importance
 
@@ -76,6 +76,25 @@ ______
 *Sometimes you will want to use a double or single quote mark within a string. Because strings can live in single or double quotes, if you just want to use double quotes in the string, you could surround the entire string in single quotes. If you just want to use single quotes in the string, you could surround the string in double quotes*
 
 ![**RULES FOR NAMING VARIABLES**](https://image.slidesharecdn.com/versatilevariables-150213221737-conversion-gate02/95/versatile-variables-5-638.jpg?cb=1423865962)
+
+_______
+##### **Decisions and loops**
+* Conditional statements allow your code to make decisions about what to do next. 
+* Comparison operators (===, ! ==, ==, ! =, <, >, <=, =>) are used to compare two operands. 
+* Logical operators allow you to combine more than one set of comparison operators. 
+* if ... else statements allow you to run one set of code 
+* if a condition is true, and another if it is false. 
+* switch statements allow you to compare a value against possible outcomes (and also provides a default option if none match). 
+* Data types can be coerced from one type to another. 
+* All values evaluate to either truthy or falsy. 
+* There are three types of loop: for, while, and do ... while. Each repeats a set of statements.
+
+![](https://i.ytimg.com/vi/L7nVZZQEnZU/maxresdefault.jpg)
+![](https://cdn.programiz.com/sites/tutorial2program/files/js-if-else-statement.png
+)
+
+
+
 
 
 

@@ -60,7 +60,7 @@ c. style layer
 
 ## class-02 
 
-Q8: Semantic markup ?
+- Q8: Semantic markup ?
 
 a.which provides extra information; such as where emphasis is placed in a sentence
 
@@ -68,7 +68,7 @@ b.provide extra meaning and allow browsers to show users the appropriate structu
 
 c.the elements that you can use to describe both headings and paragraphs
 
-Q9: How many tags are in a regular element?
+- Q9: How many tags are in a regular element?
 
 a.3
 
@@ -76,7 +76,7 @@ b.2
 
 c.1
 
-Q10 : What does < a  h r e f = ”h t t p : / / w w w . g o o g l e . c o m“  t i t l e = ” L i n k  t o   G o o g l e  ” t a r g e t = ” _  b l a n k  ” > G o o g l e  < / a > do?
+- Q10 : What does < a  h r e f = ”h t t p : / / w w w . g o o g l e . c o m“  t i t l e = ” L i n k  t o   G o o g l e  ” t a r g e t = ” _  b l a n k  ” > G o o g l e  < / a > do?
 
 a.Adds a link to google on the page
 
@@ -85,7 +85,7 @@ b.Adds a search engine to the page
 c.Nothing
 
  
-Q11: In what form are style rules presented?
+- Q11: In what form are style rules presented?
 
 a. selector { property: value } 
 
@@ -93,7 +93,7 @@ b.selector { property= value }
 
 c.selector ( property: value )
 
-Q12: Which HTML tag is used to define an internal style sheet? 
+- Q12: Which HTML tag is used to define an internal style sheet? 
 
 a.<css> 
 
@@ -101,7 +101,7 @@ a.<css>
 
  c.<script>
 
-Q13 :Where in the HTML document is the correct place to refer to an external style sheet?
+- Q13 :Where in the HTML document is the correct place to refer to an external style sheet?
  
  a.In the <body> section
  

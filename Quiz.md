@@ -117,6 +117,15 @@ a.Array
 b.Function
 
 c.Object
+ 
+ - Q15: Inside which HTML element do we put the JavaScript?
+
+a.Js
+   
+b.JavaScript
+
+c.Script
+
 
 
 
@@ -136,4 +145,4 @@ c.Object
 | Q12 | b  |
  | Q13 | c  |
   | Q14 | a |
- 
+ | Q15 | c  | 

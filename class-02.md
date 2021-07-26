@@ -22,10 +22,9 @@ HTML has six "levels" of heading.
  
  -  < i> By enclosing words in the tags < i> and < /i> we can make characters appear .
 
-* **Superscript & 
-Subscrip**
+* **Superscript & Subscrip**
 
-![sub and sup](https://slideplayer.com/15803652/88/images/slide_1.jpg)
+![sub and sup](https://i.ytimg.com/vi/or0S3hMbGcQ/maxresdefault.jpg)
 
 * **Line Breaks & Horizontal Rules**
 

@@ -109,6 +109,16 @@ a.<css>
  
  c.In the <head> section 
 
+ 
+-Q14: Var numbers = [1, 2, 3] is an example of:
+
+a.Array
+
+b.Function
+
+c.Object
+
+
 
 | Qustion  | Answer    |
 | ------- | ------- |
@@ -125,4 +135,5 @@ a.<css>
  | Q11 | a  |
 | Q12 | b  |
  | Q13 | c  |
+  | Q14 | a |
  

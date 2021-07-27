@@ -90,11 +90,16 @@ _____
 ![calling](https://cdn.educba.com/academy/wp-content/uploads/2020/02/JavaScript-call-function-8.jpg)
 
 ______
-#####**6 Reasons for Pair Programming**
+##### **6 Reasons for Pair Programming** 
+ 
 ![devloper](https://www.processmaker.com/wp-content/uploads/2020/10/citizen-developer-scaled.jpg)
+ 
 - Greater efficiency. It is a common misconception that pair programming takes a lot longer and is less efficient.
 - Engaged collaboration. 
 - Learning from fellow students. 
 - Social skills. 
 - Job interview readiness. 
 - Work environment readiness
+ 
+ 
+[Back to homw page](https://rahafalbakkar.github.io/Code-201-Reading-Notes)

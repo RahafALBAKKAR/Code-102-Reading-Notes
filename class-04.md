@@ -72,3 +72,29 @@ li {
 display: inline;
 padding: 5px;
 
+_____
+#### **JAVA SCRIPT functions**
+
+* **What is function?**
+*Functions let you group a series of statements together to perform a specific task. If different parts of a script repeat the same task, you can reuse the function (rather than repeating the same set of statements).*
+
+- parameters :a pices of information passed to a function.
+- Return value:Provide an answer.
+- called: statment that allow the function to act like a stor.
+
+* **Declaring function**
+![declaring](https://i.stack.imgur.com/LK7mO.png)
+
+* **Calling function**
+
+![calling](https://cdn.educba.com/academy/wp-content/uploads/2020/02/JavaScript-call-function-8.jpg)
+
+______
+#####**6 Reasons for Pair Programming**
+![devloper](https://www.processmaker.com/wp-content/uploads/2020/10/citizen-developer-scaled.jpg)
+- Greater efficiency. It is a common misconception that pair programming takes a lot longer and is less efficient.
+- Engaged collaboration. 
+- Learning from fellow students. 
+- Social skills. 
+- Job interview readiness. 
+- Work environment readiness

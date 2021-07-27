@@ -37,3 +37,32 @@ border-color: #0088dd;} |
 |The border-image property|applies an image to the border of any box. It takes a background image and slices it into nine pieces|p.two {-moz-border-image: url("images/dots.gif") } |
 
 _________
+
+### **Array in Javascript**
+
+*a list or a set of values that are related to each other.*
+- how to creat Array?
+1.You create an array and give it a name just like you would any other variable (using the var keyword followed by thename of the array).
+
+2.The values are assigned to the array inside a pair of square brackets, and each value is separated by a comma. The values in the array do not need to be the same data type, so you can store a string, a number and a Boolean all in the same array.
+
+let fruits = ['Apple', 'Banana']
+![array](https://miro.medium.com/max/1368/1*Gs9AECdBgWc-eG5Tjit-EQ.png)
+
+*Each item in an array is automatically given a number called an index. This can be used to access specific items in the array.*
+
+**ACCESSING & CHANGING VALUES IN AN ARRAY**
+ To access a value from an array, after the array name you specify the index number for that value inside square brackets. 
+
+You can change the value of an item an array by selecting it and assigning it a new value just as you would any other variable (using the equals sign and the new value for that item). 
+
+_____
+ * IF statment 
+
+ ![if statment](https://www.bookofnetwork.com/images/javascript-images/JS_else()_24Feb17_1750.png)
+
+ * SWITCH STATEMENTS 
+ ![switch](https://www.webtrainingroom.com/blogimages/switchcase-js.png)
+
+ * **loops**
+ ![loop](https://cdn.educba.com/academy/wp-content/uploads/2019/10/For-Loop-in-JavaScript.png)

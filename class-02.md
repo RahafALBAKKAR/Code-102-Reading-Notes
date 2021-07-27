@@ -22,10 +22,11 @@ HTML has six "levels" of heading.
  
  -  < i> By enclosing words in the tags < i> and < /i> we can make characters appear .
 
-* **Superscript & 
-Subscrip**
+
+* **Superscript & Subscrip**
 
 ![sub and sup](https://slideplayer.com/15803652/88/images/slide_1.jpg)
+
 
 * **Line Breaks & Horizontal Rules**
 
@@ -90,8 +91,10 @@ _______
 * There are three types of loop: for, while, and do ... while. Each repeats a set of statements.
 
 ![](https://i.ytimg.com/vi/L7nVZZQEnZU/maxresdefault.jpg)
+
 ![](https://cdn.programiz.com/sites/tutorial2program/files/js-if-else-statement.png
 )
+
 
 
 

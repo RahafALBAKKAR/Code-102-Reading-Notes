@@ -101,7 +101,7 @@ a.<css>
 
  c.<script>
 
-- Q13 :Where in the HTML document is the correct place to refer to an external style sheet?
+- Q12 :Where in the HTML document is the correct place to refer to an external style sheet?
  
  a.In the <body> section
  
@@ -110,7 +110,7 @@ a.<css>
  c.In the <head> section 
 
  
--Q14: Var numbers = [1, 2, 3] is an example of:
+-Q13: Var numbers = [1, 2, 3] is an example of:
 
 a.Array
 
@@ -118,14 +118,67 @@ b.Function
 
 c.Object
  
- - Q15: Inside which HTML element do we put the JavaScript?
+ - Q14: Inside which HTML element do we put the JavaScript?
 
 a.Js
    
 b.JavaScript
 
 c.Script
+_________
+ * **Class-03**
 
+Q15- for (let step = 0; step <= 5; step++) {
+  console.log('Walking east one step');
+} the result is 
+
+a.Runs 5 times print  Walking east one step 5 time 
+
+b.Runs 5 times in console print  Walking east one step 5 time 
+
+c. Runs 5 times in console print  Walking east one step 6 time 
+
+Q16-fing the mistake in this code 
+let x = 0;
+let z = 0;
+labelCancelLoops: while (true) 
+  console.log('Outer loops: ' + x);
+  x += 1;
+  z = 1;
+  while (true) {
+    console.log('Inner loops: ' + z);
+    z += 1;
+    if (z === 10 && x === 10) {
+      break labelCancelLoops;
+    } else if (z === 10) {
+      break;
+    }
+  }
+
+a. labelCancelLoops: while (true) 
+
+b.   z = 1;
+
+c. else if (z === 10) {
+
+Q17-  Among the keywords below, which one is not a statement?
+a. debugger 
+
+b. with
+
+d. use strict
+
+Q18 - What will be the output of the following JavaScript cdoe?
+let a =5
+let length = 3
+for (let i =0; i<lenght>; i++)
+{consol.log(a;)}}
+
+a.53
+
+b.555
+
+c.error
 
 
 
@@ -146,3 +199,6 @@ c.Script
  | Q13 | c  |
   | Q14 | a |
  | Q15 | c  | 
+ | Q16 | a|
+ | Q17 | c  |
+ |Q18| b |  

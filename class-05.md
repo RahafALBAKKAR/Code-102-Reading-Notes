@@ -72,3 +72,15 @@ the color property allows you to specify the color of text inside an element.
  Setting font size in pixels is the best way to ensure that the type appears at the size you intended (because percentages and ems are more likely to vary if a user has changed the default size of text in their browser).Pixels are relative to the resolution of the screen, so the same type size will look larger when a screen has a resolution of 800x600 than it would when it is 1280x800
 
 
+__________
+#### **JPEG vs PNG vs GIF — which image format to use and when?**
+
+- GIF is an image file format developed in 1987, using the LZW compression algorithm. Until 2004, LZW was patented in some countries; for more information, see the Unisys LZW web page.
+
+JPEG uses a different compression formula; by averaging color variation and discarding information not accessible to the human eye, it can greatly reduce the file size of some image types.
+
+Some image types are better suited to one format or the other. Specifically, PNG works best for geometric or line drawings, lettering, cartoons, and other images with flat color and sharp borders, such as computer screenshots. JPEG works best for storing full-color images full of complex shading and color variation.
+
+PNG is mostly superior to GIF, as it is newer, supports more colors, and is free of patent restrictions. PNG cannot be used for animation, but offers highly sophisticated transparency and color support, among other features. In most cases where animation is not required, it is best to use PNG instead of GIF.
+
+For a detailed description and comparison, see What is the difference between JPEG, GIF, and PNG? from the University of Surrey web page.

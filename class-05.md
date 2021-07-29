@@ -84,3 +84,7 @@ Some image types are better suited to one format or the other. Specifically, PNG
 PNG is mostly superior to GIF, as it is newer, supports more colors, and is free of patent restrictions. PNG cannot be used for animation, but offers highly sophisticated transparency and color support, among other features. In most cases where animation is not required, it is best to use PNG instead of GIF.
 
 For a detailed description and comparison, see What is the difference between JPEG, GIF, and PNG? from the University of Surrey web page.
+
+
+
+[Back to homepage](https://rahafalbakkar.github.io/Code-201-Reading-Notes)

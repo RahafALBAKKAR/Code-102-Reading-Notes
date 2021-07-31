@@ -83,3 +83,30 @@ The DOM is called an object model because the model (the DOM tree) is made of ob
 
 However, some older browsers have not implemented NodeList.forEach() nor Array.from(). This can be circumvented by using Array.prototype.forEach()
 
+* looping through a nodelist
+
+var hotlt ems = document .querySelectorAl l (' l i . hot') ; II Store Nodel ist i n array 
+if (hot ltems.length > O) { II If it contains i t ems 
+for (var i=O; i<hotl tems.length; i++) { II Loop throug h each it em 
+hotltems[i] .className = 'cool'; II Change val ue of class at tri bute 
+}}
+
+
+* TRAVERSING THE DOM
+
+With the HTML DOM, you can navigate the node tree using node relationships
+
+Accessing the innerHTML property is the same as accessing the nodeValue of the first child: 
+myTitle = document.getElementById("demo").firstChild.nodeValue;
+another way :
+myTitle = document.getElementById("demo").childNodes[0].nodeValue;
+
+* PREVIOUS & NEXT SIBLING:
+    First. select the parent of the element whose siblings that you want to find.
+    Second. select the first child element of that parent element.
+    Third. add the first element to an array of siblings.
+    Fourth. select the next sibling of the first element.
+
+    ![spilling](https://www.quanzhanketang.com/xml/navigate.gif)
+
+

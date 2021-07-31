@@ -41,4 +41,6 @@ An object cannot have two keys with the same name. This is because keys are used
  
  * *Dot notation vs bracket notation JS*
  ![Dot notation vs bracket notation](https://drek4537l1klr.cloudfront.net/larsen2/Figures/150fig01_alt.jpg)
+_____________________
 
+### **Document Object Model**

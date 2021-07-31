@@ -26,8 +26,8 @@ Functions | [Click here](https://replit.com/@Rahafalbakkar/Code-201-Reading-Note
 1 |class-01 | [Click here ](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-01)
 2|class-02|  [Click here ](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-02)
 3 | class-03 | [Click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-03)|
-4| class-04| [Click here ](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-04)
-5|------------ | -----------
+4| class-04| [Click here ](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-04)|
+5|class-05|[click here](https://github.com/RahafALBAKKAR/Code-201-Reading-Notes-class-05)
 6 |------------ | -----------
 7|------------ | -----------
 8 |------------ | -----------

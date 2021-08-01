@@ -180,7 +180,11 @@ b.555
 
 c.error
 
+  Q19. True or false: All the elements in an array must be of the same type.
 
+a.True
+
+b.False
 
 | Qustion  | Answer    |
 | ------- | ------- |
@@ -202,3 +206,4 @@ c.error
  | Q16 | a|
  | Q17 | c  |
  |Q18| b |  
+|Q19 | a|

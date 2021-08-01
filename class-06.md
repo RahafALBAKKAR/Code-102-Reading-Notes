@@ -27,7 +27,7 @@ If understanding the problem domain is the hardest part of programming and you w
 You can often make the problem domain easier by cutting out cases and narrowing your focus to a particular part of the problem.
 ____________
 
-## **WHAT IS AN OBJECT? **
+## **WHAT IS AN OBJECT?**
 *Objects group together a set of variables and functions to create a model of a something you would recognize from the real world. In an object, variables and functions take on new names. *
 
 **property:** if a variable is part of an object.tell us about the object, such as the name of a hotel or the number of rooms it has.

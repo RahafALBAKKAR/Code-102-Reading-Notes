@@ -59,19 +59,28 @@ Arrays are list-like objects whose prototype has methods to perform traversal an
 ![window object](https://user-images.githubusercontent.com/33088990/32959020-eb853f2c-cbc8-11e7-8184-d5c9f4af8579.png)
 
 
+
 * Functions allow you to group a set of related statements together that represent a single task. 
+
 
 * Functions can take parameters (informatiorJ required to do their job) and may return a value. 
 
+
 * An object is a series of variables and functions that represent something from the world around you. 
 
-* In an object, variables are known as properties of the object; functions are known as methods of the object. 
+
+* In an object, variables are known as properties of the object; functions are known as m
+ethods of the object. 
 
 * Web browsers implement objects that represent both the browser window and the document loaded into the browser window. 
 
+
 * JavaScript also has several built-in objects such as String, Number, Math, and Date. Their properties and methods offer functionality that help you write scripts. 
 
+
 * Arrays and objects can be used to create complex data sets (and both can conta in the other).
+
+
 
 
 

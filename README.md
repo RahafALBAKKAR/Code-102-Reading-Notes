@@ -29,7 +29,7 @@ Functions | [Click here](https://replit.com/@Rahafalbakkar/Code-201-Reading-Note
 4|class-04 |[click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-04)|
 5|class-05 |[click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-05)|
 6|class-06|[click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-06)
-7|------------ | -----------
+7|class-07 | [click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-07)
 8 |------------ | -----------
 9|------------ | -----------
 10|------------ | -----------

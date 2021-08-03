@@ -45,4 +45,31 @@ An element with position: absolute; is positioned relative to the nearest positi
 However; if an absolute positioned element has no positioned ancestors, it uses the document body, and moves along with page scrolling.
 
 Note: A "positioned" element is one whose position is anything except static.
+______________
+ ### **float**
+ *The float property specifies whether an element should float to the left, right, or not at all.*
+
+ ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTf66AhHy-3FmxIE5ik1kNO1-TWElTR90rFaA&usqp=CAU)
+
+for example:
+
+![float code](https://images2.programmersought.com/363/e6/e6c03bea980c61ddedb026037e96a55b.png)
+
+* overlapping Element 'Z-index'
+ - z-index : The z-index property specifies the stack order of an element.
+An element with greater stack order is always in front of an element with a lower stack order.
+
+![](https://i0.wp.com/tejash.me/wp-content/uploads/2020/04/z-index-css-property-examples.jpg?fit=1039%2C340&ssl=1)
+
+* clear element 'clear' :
+
+The clear property controls the flow next to floated elements.
+
+The clear property specifies what should happen with the element that is next to a floating element.
+
+![clear](https://www.tutorialandexample.com/wp-content/uploads/2020/10/CSS-Clearfix-2.png)
+
+
+
+[Back to homw page](https://rahafalbakkar.github.io/Code-201-Reading-Notes)
 

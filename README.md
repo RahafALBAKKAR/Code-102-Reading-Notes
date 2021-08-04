@@ -31,7 +31,7 @@ Functions | [Click here](https://replit.com/@Rahafalbakkar/Code-201-Reading-Note
 6|class-06|[click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-06)
 7|class-07 | [click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-07)
 8 | class-8 | [click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-08)
-9|------------ | -----------
+9| class-09 | [click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-09)
 10|------------ | -----------
 11|------------ | -----------
 12 |------------ | -----------

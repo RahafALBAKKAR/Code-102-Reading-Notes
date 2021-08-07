@@ -33,7 +33,7 @@ Functions | [Click here](https://replit.com/@Rahafalbakkar/Code-201-Reading-Note
 8 | class-8 | [click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-08)
 9| class-09 | [click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-09)
 10|clas-10 | [click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-10)
-11|------------ | -----------
+11|class-11 |  [click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-11)
 12 |------------ | -----------
 13 |------------ | -----------
 14 |------------ | -----------

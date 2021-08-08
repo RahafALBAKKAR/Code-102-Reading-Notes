@@ -1,7 +1,6 @@
-# Audio, Video, Images
+# Images
 ____________________
 
-* **Images**
 - control the size of an image using the width and height.
 - Aligning Images.
 - Centering Images.

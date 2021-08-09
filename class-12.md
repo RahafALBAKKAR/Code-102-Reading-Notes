@@ -17,13 +17,7 @@ ___________
 ## canvas:
 ![](https://i.ytimg.com/vi/5O4KVLX6KL4/maxresdefault.jpg)
 At first sight a <canvas> looks like the <img> element, with the only clear difference being that it doesn't have the src and alt attributes. Indeed, the <canvas> element has only two attributes, width and height.
-<canvas id="stockGraph" width="150" height="150">
-  current stock price: $3.15 + 0.15
-</canvas>
 
-<canvas id="clock" width="150" height="150">
-  <img src="images/clock.png" width="150" height="150" alt=""/>
-</canvas>
 
 - **Drawing rectangles**
 supports two primitive shapes: rectangles and paths (lists of points connected by lines). All other shapes must be created by combining one or more paths. Luckily, we have an assortment of path drawing functions which make it possible to compose very complex shapes.

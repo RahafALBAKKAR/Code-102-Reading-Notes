@@ -33,4 +33,4 @@ ___
 * If you want put specific function in line on code use this methode :
 <script type=" download()"></script>
 
-[Back to home page](https://rahafalbakkar.github.io/Code-201-Reading-Notes/)
+[Back to home page](https://rahafalbakkar.github.io/Reading-Notes/)

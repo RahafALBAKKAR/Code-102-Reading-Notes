@@ -70,6 +70,4 @@ The clear property specifies what should happen with the element that is next to
 ![clear](https://www.tutorialandexample.com/wp-content/uploads/2020/10/CSS-Clearfix-2.png)
 
 
-
-[Back to homw page](https://rahafalbakkar.github.io/Code-201-Reading-Notes)
-
+[Back to homw page](https://rahafalbakkar.github.io/Reading-Notes)

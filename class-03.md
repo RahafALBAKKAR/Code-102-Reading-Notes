@@ -67,4 +67,4 @@ _____
  * **loops**
  ![loop](https://cdn.educba.com/academy/wp-content/uploads/2019/10/For-Loop-in-JavaScript.png)
 
- [Back to home page](https://rahafalbakkar.github.io/Code-201-Reading-Notes/)
+ [Back to home page](https://rahafalbakkar.github.io/Reading-Notes/)

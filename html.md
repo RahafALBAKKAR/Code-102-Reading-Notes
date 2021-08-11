@@ -30,5 +30,5 @@ ___
 
 .[Lucid](https://lucid.app/documents#/templates?folder_id=home)
 
- [Bake to home page](https://rahafalbakkar.github.io/Code-201-Reading-Notes/)
+ [Bake to home page](https://rahafalbakkar.github.io/Reading-Notes/)
 

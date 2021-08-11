@@ -12,29 +12,29 @@ contents :
 
 Topic  | page
 ------------ | -------------
-Growth Mindset | [Click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/Growthmindest)
-Markdown languge |[Click Here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/Markdown)
-Git |[Click Here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/Git)
-Html  | [Click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/html)
-Js    |[Click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/js)
-Operators AND Loops | [Click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/Ex&loop)
-CSS | [Click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/cssr)
+Growth Mindset | [Click here](https://rahafalbakkar.github.io/Reading-Notes/Growthmindest)
+Markdown languge |[Click Here](https://rahafalbakkar.github.io/Reading-Notes/Markdown)
+Git |[Click Here](https://rahafalbakkar.github.io/Reading-Notes/Git)
+Html  | [Click here](https://rahafalbakkar.github.io/Reading-Notes/html)
+Js    |[Click here](https://rahafalbakkar.github.io/Reading-Notes/js)
+Operators AND Loops | [Click here](https://rahafalbakkar.github.io/Reading-Notes/Ex&loop)
+CSS | [Click here](https://rahafalbakkar.github.io/Reading-Notes/cssr)
 Functions | [Click here](https://replit.com/@Rahafalbakkar/Code-201-Reading-Notes/function)
 
 #of topic | Topic  | page
 ------------ |------------ | -----------
-1 |class-01 | [Click here ](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-01)
-2|class-02|  [Click here ](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-02)
-3 | class-03 | [Click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-03)|
-4|class-04 |[click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-04)|
-5|class-05 |[click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-05)|
-6|class-06|[click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-06)|
-7|class-07 | [click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-07)|
-8 | class-8 | [click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-08)|
-9| class-09 | [click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-09)|
-10|clas-10 | [click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-10)|
-11|class-11  [click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-11)|
-12 |class-12|[click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-12)|
-13 |class-13|[click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-13)|
-14 |class-14|[click here](https://rahafalbakkar.github.io/Code-201-Reading-Notes/class-14)|
+1|class-01|[Click here ](https://rahafalbakkar.github.io/Reading-Notes/class-01)|
+2|class-02 [Click here ](https://rahafalbakkar.github.io/Reading-Notes/class-02)|
+3 | class-03|[Click here](https://rahafalbakkar.github.io/Reading-Notes/class-03)|
+4|class-04 |[click here](https://rahafalbakkar.github.io/Reading-Notes/class-04)|
+5|class-05 |[click here](https://rahafalbakkar.github.io/Reading-Notes/class-05)|
+6|class-06|[click here](https://rahafalbakkar.github.io/Reading-Notes/class-06)|
+7|class-07 | [click here](https://rahafalbakkar.github.io/Reading-Notes/class-07)|
+8 | class-8 |[click here](https://rahafalbakkar.github.io/Reading-Notes/class-08)|
+9| class-09| [click here](https://rahafalbakkar.github.io/Reading-Notes/class-09)|
+10|clas-10| [click here](https://rahafalbakkar.github.io/Reading-Notes/class-10)|
+11|class-11| [click here](https://rahafalbakkar.github.io/Reading-Notes/class-11)|
+12 |class-12|[click here](https://rahafalbakkar.github.io/Reading-Notes/class-12)|
+13 |class-13|[click here](https://rahafalbakkar.github.io/Reading-Notes/class-13)|
+14 |class-14|[click here](https://rahafalbakkar.github.io/Reading-Notes/class-14)|
 15|           | ------------|

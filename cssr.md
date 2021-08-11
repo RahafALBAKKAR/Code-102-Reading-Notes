@@ -43,3 +43,4 @@ ___
 | float|Specifies whether an element should float to the left, right, or not at all | 
 | margin |Sets all the margin properties in one declaration| 
 
+[Back to homw page](https://rahafalbakkar.github.io/Reading-Notes)

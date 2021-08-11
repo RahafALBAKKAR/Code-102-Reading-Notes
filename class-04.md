@@ -102,4 +102,4 @@ ______
 - Work environment readiness
  
  
-[Back to homw page](https://rahafalbakkar.github.io/Code-201-Reading-Notes)
+[Back to homw page](https://rahafalbakkar.github.io/Reading-Notes)

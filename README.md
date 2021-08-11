@@ -36,5 +36,6 @@ Functions | [Click here](https://replit.com/@Rahafalbakkar/Code-201-Reading-Note
 11|class-11| [click here](https://rahafalbakkar.github.io/Reading-Notes/class-11)|
 12 |class-12|[click here](https://rahafalbakkar.github.io/Reading-Notes/class-12)|
 13 |class-13|[click here](https://rahafalbakkar.github.io/Reading-Notes/class-13)|
-14 |class-14|[click here](https://rahafalbakkar.github.io/Reading-Notes/class-14)|
+14 |class-14|[click here](https://rahafalbakkar.github.io/Reading-Notes/class-14)
+[click here](https://rahafalbakkar.github.io/Reading-Notes/class-14B) |
 15|           | ------------|
